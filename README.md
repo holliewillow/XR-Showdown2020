@@ -17,6 +17,7 @@ So basically this means, the lastest Home_XX version should be used after any XR
 *UPDATES
 
 2/13/2020 2:31 AM - James Ancira Jr:
+
 Task: Worked on customer interactor.
 
 We now have our own custom interactor that can now interact with objects.
