@@ -12,10 +12,7 @@ public class interactablecube : MonoBehaviour
     public Material m1;
     public Material m2;
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
     // Update is called once per frame
     void Update()
     {
